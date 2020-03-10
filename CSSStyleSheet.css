@@ -1,0 +1,48 @@
+h1{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.HiddenVisibility {
+    visibility: hidden;
+}
+
+.ShowVisibility:hover .HiddenVisibility {
+    visibility: visible;
+}
+
+.TransparentRows {
+    color: transparent;
+}
+
+.ButtonSize {
+    width: 200px;
+    display: block;
+}
+
+.SmallImageSize {
+    height: 20%;
+    width: 20%;
+}
+
+.DivBorder {
+    border-color: black;
+    border-right: solid;
+    border-left: solid;
+    border-width: 5px;
+    
+}
+
+.HrStyle {
+    border-top: 1px solid black   
+}
+
+.DivAlign {
+    text-align: center;
+}
+
+.DivLeftAlign {
+    text-align: left;
+}
